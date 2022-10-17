@@ -21,7 +21,7 @@ Repo for Data Analysis Project of US Accidents
 
 
 ## Note
-*New York data is not included in this 
+* New York data is not included in this 
 
 
 ## Types of Data 
