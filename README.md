@@ -21,8 +21,7 @@ Repo for Data Analysis Project of US Accidents
 
 
 ## Note
-New York data is not included in this 
-Accident Risk Prediction based on Heterogeneous Sparse Data
+*New York data is not included in this 
 
 
 ## Types of Data 
