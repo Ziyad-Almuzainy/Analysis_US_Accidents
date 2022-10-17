@@ -6,9 +6,9 @@ Repo for Data Analysis Project of US Accidents
 
 
 ## Resources Used 
-**Python Version:** 3.9 
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, scipy, folium, pylab.   
-**Kaggl**( https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents )
+* **Python Version:** 3.9 
+* **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, scipy, folium, pylab.   
+* **Kaggl**( https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents )
 
 
 ##  Analyzing five columns of data to determine the extent of the impact of accidents.
